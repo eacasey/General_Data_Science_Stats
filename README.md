@@ -5,4 +5,5 @@ Repository for general data science info, statistics, and coding
 
 #### Files in this repository: 
 
-- 
+- Coding_Fundamentals (3).ipynb 
+-- 
