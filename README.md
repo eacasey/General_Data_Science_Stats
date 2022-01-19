@@ -1,8 +1,7 @@
 # General_Data_Science_Stats
 Repository for general data science info, statistics, and coding 
 
-### **This repository contains information about general data science and statistics topics as well as some fundamental code (primarily Python) 
-that I have found myself referring to on a regular basis. I decided to create a repository for it here in case anyone else finds it helpful.** 
+### This repository contains information about general data science and statistics topics as well as some fundamental code (primarily Python) that I have found myself referring to on a regular basis. I decided to create a repository for it here in case anyone else finds it helpful.
 
 #### Files in this repository: 
 
